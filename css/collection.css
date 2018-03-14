@@ -1,0 +1,6 @@
+.article-title,
+.article-total,
+.article-number {
+    float: left;
+    padding-right: 4px;
+}
