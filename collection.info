@@ -1,7 +1,7 @@
-name = Stanford Module
-description = Does these things...
+name = Collection Module
+description = Demonstrates how to build a collection
 core = 7.x
-package = Stanford
+package = Custom
 version = 7.x-1.0-dev
 project = collection
 dependencies[] = block

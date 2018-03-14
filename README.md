@@ -1,22 +1,15 @@
-# [Stanford Module Example](https://github.com/SU-SWS/collection)
+# [Collection Module Example](https://github.com/SU-SWS/collection)
 ##### Version: 7.x-1.x
 
-Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)  
+Maintainers: [cjwest](https://github.com/cjwest)
 
 Changelog: [Changelog.txt](CHANGELOG.txt)
 
 Description
 ---
 
-The Stanford Module Example module is used to do some things. Please put a
-description of what this module does so that a new developer can get a quick
-understanding about what this module does.
+This module demonstrates how you can build collections
 
-Accessibility
----
-[![WCAG Conformance 2.0 AA Badge](https://www.w3.org/WAI/wcag2AA-blue.png)](https://www.w3.org/TR/WCAG20/)
-Evaluation Date: 201X-XX-XX  
-This module conforms to level AA WCAG 2.0 standards as required by the university's accessibility policy. For more information on the policy please visit: [https://ucomm.stanford.edu/policies/accessibility-policy.html](https://ucomm.stanford.edu/policies/accessibility-policy.html).
 
 Installation
 ---
@@ -33,18 +26,6 @@ Troubleshooting
 ---
 
 If you are experiencing issues with this module try reverting the feature first. If you are still experiencing issues try posting an issue on the GitHub issues page.
-
-Developer
----
-
-If you wish to develop on this module you will most likely need to compile some new css. Please use the sass structure provided and compile with the sass compiler packaged in this module. To install:
-
-```
-npm install
-grunt watch
- or
-grunt devmode
-```
 
 Contribution / Collaboration
 ---
