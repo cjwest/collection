@@ -1,4 +1,4 @@
-# [Collection Module Example](https://github.com/SU-SWS/collection)
+# [Collection Example](https://github.com/SU-SWS/collection)
 ##### Version: 7.x-1.x
 
 Maintainers: [cjwest](https://github.com/cjwest)
