@@ -1,0 +1,16 @@
+name = My Collection Layout
+description = Layout of articles on a collection node
+core = 7.x
+package = Custom
+version = 7.x-1.0-alpha1
+project = my_collection_layout
+dependencies[] = context
+dependencies[] = my_collection
+dependencies[] = my_collection_views
+dependencies[] = views
+features[context][] = collection_node
+features[ctools][] = context:context:3
+features[ctools][] = strongarm:strongarm:1
+features[features_api][] = api:2
+project path = sites/default/modules/custom/collection/modules
+project status url = https://github.com/cjwest/collection

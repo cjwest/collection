@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the My Collection Layout feature.
+ */
+
+include_once 'my_collection_layout.features.inc';
